@@ -1,5 +1,8 @@
 This is file2 in git demo
 2nd file
+<<<<<<< HEAD
 Again some lines are added
 Modified and commiting
 Again Modifying 2nd time
+=======
+>>>>>>> parent of 46a0479... Modified File 2
