@@ -1,2 +1,0 @@
-this is the file1 in git demo
-Changes are doing
